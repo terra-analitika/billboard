@@ -2,6 +2,7 @@
 Announcement board about updated projects that are worked on 🔨
 
 **For starters**
+
 Open repo `hi-we-are-terra-analitika` & open the notebooks (`.ipynb`) about how to use Google Colab and how to code in Jupyter Notebook in it. Beginner's guide in it. 
 
 **Up-to-date projects** 
